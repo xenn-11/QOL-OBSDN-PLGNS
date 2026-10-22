@@ -7,6 +7,6 @@ All of these are have been personally hand-written, and the only use of AI in th
 ## Changelog
 The changelog will be updated such that:
 ```
-YYYY-MM-DD | ADD / REMOVE / UPDATE / RULE / FIX | Description
+YYYY-MM-DD | ADD / REMOVE / UPDATE / FIX | Description
 ```
 See it at [QOL-OBSDN-PLGNS\CHANGELOG.md](https://github.com/xenn-11/QOL-OBSDN-PLGNS/blob/main/CHANGELONG.md)
