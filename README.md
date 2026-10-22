@@ -13,7 +13,7 @@ The changelog will be updated such that:
 ```
 YYYY-MM-DD | ADD / REMOVE / UPDATE / RULE / FIX | Description
 ```
-See at [QOL-OBSDN-PLGNS\CHANGELOG.md](https://github.com/xenn-11/QOL-OBSDN-PLGNS/blob/main/CHANGELONG.md)
+See it at [QOL-OBSDN-PLGNS\CHANGELOG.md](https://github.com/xenn-11/QOL-OBSDN-PLGNS/blob/main/CHANGELONG.md)
 
 ### 1.3 Installation
 These files cannot be found on the Obsidian marketplace under my name. If you'll work from this repository, you will have to follow the manual plugin installation method.
