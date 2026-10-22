@@ -1,0 +1,3 @@
+2026-10-22 |  ADD   | Added plugin "Quick Pair" (https://github.com/xenn-11/QOL-OBSDN-PLGNS/tree/main/Plugins/Quick%20Pair)
+2026-10-22 |  ADD   | Added plugin "Yen Counter" (https://github.com/xenn-11/QOL-OBSDN-PLGNS/tree/main/Plugins/Yen%20Counter)
+2026-10-22 | UPDATE | Repository created (https://github.com/xenn-11/QOL-OBSDN-PLGNS)
