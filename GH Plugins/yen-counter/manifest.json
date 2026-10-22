@@ -1,0 +1,10 @@
+{
+  "id": "yen-motivation-counter",
+  "name": "Yen Motivation Counter",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "A private, local motivation counter that increments in Yen as you write, shown as a rolling odometer-style dial in the status bar.",
+  "author": "Ixu",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}

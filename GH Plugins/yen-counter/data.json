@@ -1,0 +1,7 @@
+{
+  "totalCents": 68566836,
+  "showCents": true,
+  "minCentsPerLetter": 500,
+  "maxCentsPerLetter": 1000,
+  "rollDurationMs": 350
+}
