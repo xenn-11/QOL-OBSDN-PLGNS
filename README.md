@@ -10,4 +10,5 @@ The changelog will be updated such that:
 YYYY-MM-DD | ADD / REMOVE / UPDATE / FIX | Description
 ```
 Difference in days will be separated by a markdown divider (---).
+
 See it at [QOL-OBSDN-PLGNS\CHANGELOG.md](https://github.com/xenn-11/QOL-OBSDN-PLGNS/blob/main/CHANGELONG.md)
