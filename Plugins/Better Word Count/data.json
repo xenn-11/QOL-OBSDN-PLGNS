@@ -1,0 +1,21 @@
+{
+  "showWords": true,
+  "showCharacters": true,
+  "showCharactersNoSpaces": false,
+  "showSentences": false,
+  "showParagraphs": false,
+  "showReadingTime": false,
+  "showSelection": true,
+  "showLabels": true,
+  "thousandsSeparator": "comma",
+  "animate": true,
+  "rollDurationMs": 250,
+  "excludeFrontmatter": true,
+  "excludeCode": false,
+  "excludeComments": true,
+  "ignoreLinkTargets": true,
+  "countCjkAsWords": true,
+  "wordsPerMinute": 230,
+  "cjkCharsPerMinute": 500,
+  "warnedAboutCore": true
+}
