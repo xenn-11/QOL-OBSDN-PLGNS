@@ -1,0 +1,10 @@
+{
+  "id": "better-word-count",
+  "name": "Better Word Count",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "A drop-in replacement for the core Word Count plugin: more statistics, selection-aware counts, CJK support, and a rolling odometer-style display in the status bar.",
+  "author": "Ixu",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
