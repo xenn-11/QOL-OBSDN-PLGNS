@@ -1,6 +1,6 @@
 # QOL-OBSDN-PLGNS
 # General Information
-## 1.1 Introduction
+## <u>1.1 Introduction</u>
 
 **Quality Of Life Obsidian Plugins**.
 
